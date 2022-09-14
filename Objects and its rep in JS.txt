@@ -1,0 +1,13 @@
+1. In Javascript, objects may be defined as an unordered collection of related data, of primitive or reference types in "key:value" pairs.
+
+2. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+
+3. Objects and different from the primitive data types such as numbers, strings, boolean etc.
+
+4. A property of an object can be explained as a variable that is attached to the object.
+
+5. Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects.
+
+6. The properties of an object define the characteristics of the object.
+
+7. An object property name can be any valid JavaScript string, or anything that can be converted to a string, including the empty string.
